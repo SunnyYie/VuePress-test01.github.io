@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{292:function(n,t,s){"use strict";s.r(t);var e={},u=s(8),i=Object(u.a)(e,(function(){this._self._c;return this._m(0)}),[function(){var n=this._self._c;return n("div",[n("h1",[this._v("Hello VuePress ,too")])])}],!1,null,null,null);t.default=i.exports}}]);
